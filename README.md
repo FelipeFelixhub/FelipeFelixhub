@@ -1,5 +1,14 @@
-### Hello! I'm Felipe Felix 🤙
+### Olá! Eu Sou Felipe Felix 🤙
 <br/>
+
+- Cursando Desenvolvimento de Software Multiplataforma na FATEC Mauá - (2/6)
+- Além da faculdade, utilizo plataformas digitais como a Udemy, DIO e ALURA para aprender um pouquinho a cada dia.
+- Apaixonado por tecnologia 💖!
+
+## Formaão Acadêmica
+
+- MBA Lean Management - Fundação Santo André
+- Tecnólogo em Logística - FATEC Mauá
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-felix-3861441b5/)
 

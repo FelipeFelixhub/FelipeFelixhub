@@ -18,14 +18,6 @@
 <br>
 
 
-<div>
-<a href="https://github.com/FelipeFelixhub">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeFelixhub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFelixhub&layout=compact&langs_count=7&theme=dracula"/>
-</a>
-</div>
-
-
 ### Tecnologies:
 
 <div style="display: inline_block"><br/>

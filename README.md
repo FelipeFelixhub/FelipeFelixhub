@@ -1,7 +1,7 @@
 ### Olá! Eu Sou Felipe Felix 🤙
 <br/>
 
-- Cursando Desenvolvimento de Software Multiplataforma na FATEC Mauá - (5/6)
+- Cursando Desenvolvimento de Software Multiplataforma na FATEC Mauá - (6/6)
 - Além da faculdade, utilizo plataformas digitais como a Udemy, DIO e Linkedin learning para aprender um pouquinho a cada dia.
 - Apaixonado por tecnologia 💖!
 
